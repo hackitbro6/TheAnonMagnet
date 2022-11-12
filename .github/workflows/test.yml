@@ -25,5 +25,4 @@ jobs:
       - name: Run a one-line script
         run: | 
                 df -h
-                sudo su
-                apt install git
+                cd /var/lib
