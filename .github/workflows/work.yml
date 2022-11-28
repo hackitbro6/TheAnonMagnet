@@ -18,5 +18,6 @@ jobs:
           python-version: 3.8
       - name: Execute Test Script
         run: |
-          echo "Store: ${{ github.event.inputs.myInput }}"
-          INPUT_STORE=${{ github.event.inputs.myInput }} python3 torrent.py
+            pip install torrentp
+             echo "Store: ${{ github.event.inputs.myInput }}"
+              INPUT_STORE=${{ github.event.inputs.myInput }} python3 torrent.py
