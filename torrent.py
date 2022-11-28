@@ -1,6 +1,5 @@
 import os
-
-input_variable = os.environ['MAIN_LINK']
+input_variable = os.environ['INPUT_STORE']
 
 from torrentp import TorrentDownloader
 x =  (input_variable)
