@@ -26,7 +26,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: | 
-            export VAR=${{ github.event.inputs.link }}
+            export VAR="${{ github.event.inputs.link }}"
             printenv VAR
              pip3 install torrentp
                python3 torrent.py
