@@ -19,4 +19,4 @@ jobs:
       - name: Execute Test Script
         run: |
           echo "Store: ${{ github.event.inputs.myInput }}"
-          MAIN_LINK=${{ github.event.inputs.myInput }} python3 torrent.py
+          INPUT_STORE=${{ github.event.inputs.myInput }} python3 torrent.py
