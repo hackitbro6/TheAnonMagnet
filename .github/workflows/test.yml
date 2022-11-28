@@ -26,6 +26,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: | 
+             pip3 install torrentp
                python3 torrent.py
               
                 
