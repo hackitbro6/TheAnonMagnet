@@ -1,5 +1,8 @@
+import os
+
+input_variable = os.environ['MAIN_LINK']
 
 from torrentp import TorrentDownloader
-x =  ${{ github.event.inputs.link }}
+x =  (MAIN_LINK)
 torrent_file = TorrentDownloader(x , '.')
 torrent_file.start_download()
