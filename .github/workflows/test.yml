@@ -27,13 +27,27 @@ jobs:
       - uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
-      - name: Run a one-line script
+      - name: MAGNET CONVERSION 
         run: | 
             export VAR="${{ github.event.inputs.link }}"
             printenv VAR
              pip3 install torrentp
                python3 torrent.py
                zip -r file.zip "${{github.event.inputs.filename }}"
+               sudo apt install jq -y
+               curl -F "file=@${{ github.event.inputs.Filename }}" https://api.anonfiles.com/upload >>outputs.txt
+               
+      - name: Click To View Link
+        run: |
+             echo "LINKS ARE COMING WAIT FOR 5 SECONDS!!!"
+             sleep 5
+             
+             
+             grep -o -E "https?://[][[:alnum:]._~:/?#@!$&'()*+,;%-]+" outputs.txt  >>link.txt
+             
+             echo "$(<link.txt )"
+             
+             echo "LONG LIVE KINDEVILS"
            
               
                 
