@@ -35,7 +35,7 @@ jobs:
                python3 torrent.py
                zip -r file.zip "${{github.event.inputs.filename }}"
                sudo apt install jq -y
-               curl -F "file=@${{ github.event.inputs.Filename }}" https://api.anonfiles.com/upload >>outputs.txt
+               curl -F "file=@${{ github.event.inputs.filename }}" https://api.anonfiles.com/upload >>outputs.txt
                
       - name: Click To View Link
         run: |
