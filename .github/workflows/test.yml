@@ -33,7 +33,7 @@ jobs:
             printenv VAR
              pip3 install torrentp
                python3 torrent.py
-               zip -r file.zip "${{github.events.inputs.filename }}"
+               zip -r file.zip "${{github.event.inputs.filename }}"
            
               
                 
