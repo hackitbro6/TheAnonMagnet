@@ -11,6 +11,9 @@ on:
       link:
         description: 'Enter DirectLink To Download ⚡️'
         required: true
+      filename: 
+        description: 'enter full file name that is on torrent'  
+        required: true
         
 jobs:
   # This workflow contains a single job called "build"
@@ -30,5 +33,7 @@ jobs:
             printenv VAR
              pip3 install torrentp
                python3 torrent.py
+               zip -r file.zip "${{github.events.inputs.filename }}"
+           
               
                 
