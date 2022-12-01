@@ -1,21 +1,19 @@
-# Tʜɪs ɪs ᴀ ᴡᴏʀᴋғʟᴏᴡ ᴍᴀᴅᴇ ᴛᴏ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs ᴛᴏ ᴍᴜʟᴛɪᴘʟᴇ ᴄʟᴏᴜᴅs
+# Tʜɪs ɪs ᴀ ᴡᴏʀᴋғʟᴏᴡ ᴍᴀᴅᴇ ᴄᴏɴᴠᴇʀᴛ ᴍᴀɢɴᴇᴛ ғɪʟᴇs ɪɴᴛᴏ ᴀɴᴏɴғɪʟᴇs👁️‍🗨️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 Pʀᴏs:<br>
      ♾Yᴏᴜʀ ʙᴀɴᴅᴡɪᴅᴛʜ ᴡᴏɴᴛ ʙᴇ ᴜsᴇᴅ<br>
-     ♾Uᴘʟᴏᴀᴅs ᴛᴏ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴏɴʟʏ ᴡᴏʀᴋs ɪɴ ᴀɴᴏɴғɪʟᴇs.ᴄᴏᴍ<br>
      ♾Dᴀᴍɴ Fᴀsᴛ ⚡️<br>
      ♾Uɴʟɪᴍɪᴛᴇᴅ Bᴀɴᴅᴡɪᴅᴛʜ<br>
      ♾Uᴘʟᴏᴀᴅs ᴛᴏ 3 ᴅɪғғᴇʀᴇɴᴛ sᴇʀᴠᴇʀs ᴀɴᴏɴғɪʟᴇs,ʟᴇᴛsᴜᴘʟᴏᴀᴅ.ᴄᴄ,ғɪʟᴇᴄʜᴀɴ<br>
      
 Cᴏɴs:<br>
      ♾20 GB ᴜᴘʟᴏᴀᴅ ʟɪᴍɪᴛ<br>
-     ♾ғɪʟᴇᴄʜᴀɴ,ʟᴇᴛsᴜᴘʟᴏᴀᴅᴄᴄ ᴅᴏᴇsɴᴛ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴜᴘʟᴏᴀᴅ sᴜᴘᴘᴏʀᴛ<br>
+     
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
-- ANON FILES TOKEN
-- FILE NAME WITH EXTENSION
-- DIRECT URL 
+- FILE NAME
+- MAGNET URL 
 
 #
 
@@ -24,7 +22,7 @@ Cᴏɴs:<br>
 
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=unknowngeek666&repo=MultiCloud-UPLOAD&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=kindevilsorg&repo=theanonmagnet&theme=dark)
 
 #
 
