@@ -21,7 +21,7 @@ Cᴏɴs:<br>
 
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=kindevilsorg&repo=theanonmagnet&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=kindevilsorg&repo=TheAnonMagnet&theme=dark)
 
 #
 
